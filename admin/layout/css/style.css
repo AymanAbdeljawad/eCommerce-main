@@ -1,0 +1,89 @@
+/*start main body*/
+body {
+    background-color: #F4F4F4;
+}
+
+/*end main body*/
+
+/*start login form*/
+.login {
+    width: 450px;
+    margin: 100px auto;
+}
+
+/*end login form*/
+
+
+/*start bootstrip edite*/
+
+.navbar-brand {
+    font-size: 1em;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show > .nav-link,
+.dropdown-menu {
+    background-color: #0984e3;
+}
+
+.dropdown-menu {
+    top: 114%;
+    left: -74px;
+    padding: 0px;
+    border-radius: 0rem;
+}
+
+.dropdown-item {
+    color: #ffffff;
+
+}
+
+.dropdown-divider {
+    margin: 0px;
+}
+
+/*end bootstrip edite*/
+
+
+/*start muber pages*/
+
+.title-muber {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    color: #636e72;
+}
+
+.edit input[value] {
+    font-size: 18px;
+    color: #1b1e21;
+    font-weight: 500;
+}
+
+
+.my-form-group {
+    position: relative;
+}
+
+.astrix {
+    position: absolute;
+    right: 0px;
+    top: 10px;
+    font-size: 25px;
+    color: red;
+}
+
+.show-class {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+
+.main-table tr:first-child th {
+    color: #FFFFFF;
+
+}
+
+/*end muber pages*/
